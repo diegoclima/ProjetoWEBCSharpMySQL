@@ -1,0 +1,2649 @@
+0;11
+Água sem gás;4
+Água com gás;2
+Água de coco;5
+Achocolatado;4
+Chá mate;7
+Guaraná Sibéria;8
+Cafezinho;4
+Chocolate;2
+Pão de sal;4
+Macarrão;3
+Batata;1
+1;7
+Pastel;4
+Cenoura;6
+Pão de alho;7
+Caneta;1
+Lapiseira;9
+Borracha;9
+Grampeador;2
+2;8
+Papel A4;7
+Marca-texto;9
+Peso de papel;2
+Desentupidor de fogão;2
+Borracha para panela de pressão;3
+Faca;9
+Colher;2
+Caneca;7
+3;1
+Copo grande;8
+4;9
+Queijeira;5
+Cola Cola;2
+Água com gás;5
+Água de coco;8
+Achocolatado;7
+Chá mate;4
+Cafezinho;2
+Chocolate;7
+Paçoca;9
+5;1
+Pão de sal;1
+6;3
+Bolo de coco;4
+Macarrão;8
+Azeitonas;8
+7;1
+Batata;3
+8;10
+Cenoura;4
+Lápis;7
+Lapiseira;6
+Borracha;6
+Clipes;5
+Grampeador;4
+Corretivo;6
+Peso de papel;4
+Desentupidor de fogão;5
+Borracha para panela de pressão;1
+9;1
+Faca;7
+10;7
+Colher;4
+Copo grande;9
+Copo lagoinha;8
+Saleiro;7
+Cola Cola;6
+Água sem gás;5
+Água com gás;4
+11;10
+Água de coco;7
+Kombucha;9
+Chá mate;1
+Cafezinho;6
+Paçoca;8
+Bolo de coco;8
+Macarrão;8
+Azeitonas;7
+Pastel;7
+Cenoura;3
+12;6
+Lápis;4
+Caneta;6
+Borracha;5
+Grampeador;2
+Papel A4;4
+Corretivo;7
+13;8
+Marca-texto;4
+Desentupidor de fogão;4
+Borracha para panela de pressão;6
+Garfo;8
+Colher;1
+Caneca;1
+Copo grande;8
+Copo lagoinha;9
+14;9
+Saleiro;2
+Cola Cola;3
+Água sem gás;4
+Tubaína;4
+Kombucha;5
+Chá mate;5
+Guaraná Sibéria;5
+Chocolate;1
+Pão de sal;4
+15;10
+Bolo de coco;3
+Azeitonas;6
+Batata;7
+Cenoura;3
+Pão de alho;6
+Lápis;6
+Lapiseira;2
+Borracha;6
+Grampeador;5
+Papel A4;3
+16;11
+Marca-texto;1
+Peso de papel;1
+Desentupidor de fogão;3
+Faca;6
+Garfo;9
+Colher;5
+Caneca;8
+Copo lagoinha;2
+Saleiro;8
+Água sem gás;5
+Água com gás;7
+17;9
+Água de coco;9
+Achocolatado;3
+Chá mate;8
+Guaraná Sibéria;5
+Cafezinho;1
+Paçoca;4
+Pão de sal;5
+Macarrão;2
+Azeitonas;8
+18;8
+Pastel;6
+Pão de alho;2
+Lápis;4
+Lapiseira;5
+Borracha;7
+Grampeador;7
+Corretivo;9
+Marca-texto;6
+19;2
+Peso de papel;1
+Borracha para panela de pressão;7
+20;3
+Faca;1
+Garfo;6
+Colher;4
+21;8
+Copo grande;6
+Copo lagoinha;7
+Queijeira;9
+Saleiro;6
+Água sem gás;7
+Tubaína;3
+Água de coco;7
+Achocolatado;7
+22;4
+Guaraná Sibéria;5
+Chocolate;8
+Pão de sal;9
+Bolo de coco;2
+23;1
+Azeitonas;3
+24;10
+Pastel;7
+Pão de alho;5
+Caneta;4
+Lapiseira;4
+Borracha;6
+Clipes;2
+Papel A4;4
+Marca-texto;2
+Peso de papel;3
+Borracha para panela de pressão;6
+25;4
+Faca;6
+Colher;5
+Copo grande;4
+Queijeira;9
+26;7
+Saleiro;3
+Água sem gás;8
+Tubaína;9
+Kombucha;8
+Chá mate;4
+Cafezinho;4
+Chocolate;3
+27;5
+Pão de sal;8
+Bolo de coco;4
+Macarrão;7
+Batata;1
+Cenoura;6
+28;9
+Pão de alho;9
+Lápis;9
+Caneta;4
+Lapiseira;4
+Borracha;7
+Clipes;2
+Grampeador;6
+Papel A4;6
+Marca-texto;2
+29;10
+Desentupidor de fogão;7
+Borracha para panela de pressão;5
+Garfo;9
+Colher;3
+Copo grande;8
+Queijeira;2
+Saleiro;3
+Cola Cola;8
+Água com gás;8
+Água de coco;3
+30;4
+Achocolatado;8
+Chá mate;7
+Guaraná Sibéria;7
+Chocolate;8
+31;1
+Paçoca;1
+32;11
+Bolo de coco;6
+Macarrão;7
+Azeitonas;3
+Pastel;8
+Cenoura;6
+Lápis;6
+Caneta;1
+Borracha;3
+Grampeador;2
+Corretivo;9
+Peso de papel;5
+33;11
+Borracha para panela de pressão;3
+Garfo;4
+Colher;5
+Copo grande;7
+Queijeira;6
+Saleiro;5
+Água sem gás;2
+Água com gás;5
+Água de coco;7
+Kombucha;3
+Achocolatado;3
+34;6
+Chá mate;3
+Cafezinho;5
+Paçoca;8
+Pão de sal;1
+Bolo de coco;2
+Azeitonas;2
+35;6
+Pastel;9
+Pão de alho;4
+Caneta;8
+Borracha;9
+Clipes;6
+Grampeador;1
+36;9
+Corretivo;3
+Marca-texto;4
+Peso de papel;5
+Borracha para panela de pressão;8
+Garfo;1
+Colher;9
+Copo grande;9
+Copo lagoinha;6
+Queijeira;3
+37;11
+Saleiro;6
+Água sem gás;6
+Água com gás;1
+Água de coco;6
+Kombucha;5
+Achocolatado;6
+Guaraná Sibéria;5
+Cafezinho;2
+Chocolate;8
+Pão de sal;9
+Bolo de coco;5
+38;8
+Macarrão;8
+Azeitonas;5
+Pastel;9
+Cenoura;4
+Lápis;4
+Caneta;1
+Lapiseira;8
+Clipes;1
+39;5
+Grampeador;9
+Papel A4;3
+Corretivo;4
+Peso de papel;5
+Desentupidor de fogão;7
+40;4
+Faca;5
+Garfo;7
+Caneca;8
+Copo lagoinha;8
+41;9
+Saleiro;8
+Água sem gás;9
+Água com gás;1
+Tubaína;3
+Água de coco;1
+Kombucha;4
+Chá mate;3
+Cafezinho;2
+Chocolate;4
+42;9
+Paçoca;5
+Pão de sal;6
+Bolo de coco;2
+Azeitonas;4
+Batata;6
+Pastel;3
+Cenoura;9
+Pão de alho;8
+Caneta;3
+43;4
+Lapiseira;4
+Borracha;6
+Grampeador;3
+Papel A4;1
+44;11
+Corretivo;7
+Peso de papel;3
+Desentupidor de fogão;8
+Borracha para panela de pressão;4
+Garfo;3
+Caneca;8
+Copo grande;6
+Copo lagoinha;7
+Saleiro;7
+Cola Cola;4
+Água sem gás;5
+45;11
+Tubaína;1
+Água de coco;4
+Kombucha;8
+Achocolatado;3
+Guaraná Sibéria;2
+Chocolate;2
+Paçoca;1
+Pão de sal;8
+Bolo de coco;5
+Azeitonas;3
+Batata;7
+46;6
+Cenoura;7
+Lápis;9
+Lapiseira;6
+Borracha;6
+Clipes;7
+Papel A4;6
+47;3
+Corretivo;5
+Marca-texto;5
+Desentupidor de fogão;9
+48;8
+Faca;6
+Garfo;8
+Caneca;8
+Copo lagoinha;7
+Saleiro;6
+Cola Cola;7
+Água sem gás;5
+Água com gás;6
+49;5
+Água de coco;1
+Achocolatado;6
+Guaraná Sibéria;3
+Cafezinho;7
+Chocolate;9
+50;6
+Pão de sal;4
+Bolo de coco;7
+Macarrão;1
+Batata;3
+Pastel;1
+Cenoura;2
+51;9
+Lápis;6
+Lapiseira;5
+Borracha;4
+Grampeador;1
+Corretivo;7
+Peso de papel;5
+Desentupidor de fogão;1
+Borracha para panela de pressão;3
+Faca;2
+52;2
+Colher;4
+Copo grande;6
+53;2
+Queijeira;3
+Saleiro;7
+54;1
+Cola Cola;3
+55;8
+Água com gás;9
+Tubaína;9
+Água de coco;9
+Achocolatado;1
+Chá mate;4
+Cafezinho;6
+Paçoca;2
+Pão de sal;9
+56;8
+Macarrão;3
+Batata;1
+Pastel;4
+Pão de alho;1
+Caneta;9
+Borracha;2
+Grampeador;1
+Corretivo;5
+57;9
+Peso de papel;2
+Desentupidor de fogão;2
+Faca;2
+Colher;1
+Caneca;9
+Copo lagoinha;1
+Queijeira;4
+Saleiro;2
+Cola Cola;1
+58;11
+Água sem gás;6
+Água com gás;6
+Tubaína;8
+Kombucha;9
+Chá mate;8
+Guaraná Sibéria;4
+Cafezinho;2
+Chocolate;5
+Paçoca;9
+Pão de sal;1
+Bolo de coco;3
+59;1
+Azeitonas;5
+60;10
+Batata;6
+Cenoura;7
+Pão de alho;8
+Lápis;7
+Lapiseira;2
+Borracha;6
+Grampeador;4
+Papel A4;2
+Marca-texto;2
+Peso de papel;6
+61;7
+Borracha para panela de pressão;1
+Garfo;1
+Colher;6
+Copo grande;8
+Copo lagoinha;6
+Queijeira;2
+Saleiro;8
+62;1
+Cola Cola;2
+63;9
+Água sem gás;3
+Tubaína;2
+Kombucha;3
+Achocolatado;2
+Chá mate;8
+Cafezinho;6
+Paçoca;7
+Bolo de coco;3
+Macarrão;6
+64;8
+Batata;8
+Pastel;2
+Pão de alho;8
+Caneta;8
+Lapiseira;3
+Borracha;2
+Grampeador;5
+Papel A4;7
+65;4
+Marca-texto;7
+Peso de papel;6
+Borracha para panela de pressão;9
+Faca;1
+66;10
+Colher;8
+Copo grande;3
+Copo lagoinha;7
+Queijeira;8
+Saleiro;9
+Cola Cola;2
+Água com gás;3
+Tubaína;4
+Água de coco;9
+Achocolatado;6
+67;3
+Chá mate;4
+Guaraná Sibéria;6
+Cafezinho;4
+68;6
+Paçoca;1
+Bolo de coco;7
+Macarrão;9
+Azeitonas;7
+Batata;2
+Pastel;8
+69;9
+Pão de alho;1
+Lápis;5
+Caneta;3
+Lapiseira;7
+Borracha;6
+Clipes;8
+Grampeador;6
+Papel A4;4
+Marca-texto;7
+70;9
+Peso de papel;9
+Borracha para panela de pressão;4
+Faca;4
+Garfo;7
+Caneca;6
+Copo grande;8
+Queijeira;8
+Cola Cola;4
+Água sem gás;9
+71;7
+Água com gás;2
+Tubaína;8
+Kombucha;5
+Chá mate;9
+Cafezinho;4
+Paçoca;4
+Pão de sal;4
+72;5
+Macarrão;7
+Azeitonas;6
+Batata;1
+Cenoura;5
+Lápis;1
+73;10
+Lapiseira;4
+Borracha;5
+Clipes;3
+Grampeador;1
+Papel A4;6
+Corretivo;2
+Marca-texto;9
+Peso de papel;5
+Borracha para panela de pressão;4
+Garfo;2
+74;10
+Colher;3
+Caneca;2
+Copo grande;5
+Queijeira;5
+Saleiro;6
+Água sem gás;7
+Tubaína;8
+Água de coco;8
+Kombucha;1
+Chá mate;9
+75;6
+Guaraná Sibéria;7
+Cafezinho;6
+Paçoca;7
+Pão de sal;5
+Bolo de coco;1
+Azeitonas;8
+76;1
+Batata;2
+77;10
+Pastel;9
+Pão de alho;8
+Lápis;8
+Lapiseira;7
+Borracha;2
+Clipes;9
+Papel A4;4
+Corretivo;3
+Marca-texto;4
+Peso de papel;5
+78;10
+Borracha para panela de pressão;3
+Garfo;5
+Colher;1
+Copo grande;9
+Queijeira;8
+Cola Cola;3
+Água sem gás;7
+Água com gás;8
+Tubaína;1
+Água de coco;7
+79;8
+Kombucha;8
+Chá mate;2
+Cafezinho;1
+Paçoca;3
+Bolo de coco;7
+Azeitonas;6
+Pastel;8
+Pão de alho;1
+80;5
+Lápis;8
+Caneta;7
+Borracha;3
+Grampeador;7
+Corretivo;6
+81;3
+Marca-texto;1
+Peso de papel;9
+Borracha para panela de pressão;3
+82;4
+Faca;1
+Garfo;2
+Caneca;9
+Copo lagoinha;3
+83;2
+Saleiro;6
+Cola Cola;9
+84;6
+Água com gás;7
+Água de coco;6
+Kombucha;9
+Chá mate;5
+Guaraná Sibéria;5
+Cafezinho;4
+85;6
+Paçoca;6
+Pão de sal;1
+Macarrão;7
+Azeitonas;2
+Batata;2
+Pastel;8
+86;5
+Cenoura;3
+Pão de alho;9
+Lápis;6
+Lapiseira;7
+Clipes;3
+87;8
+Grampeador;4
+Papel A4;6
+Marca-texto;1
+Desentupidor de fogão;9
+Faca;5
+Colher;7
+Copo grande;5
+Queijeira;4
+88;5
+Saleiro;7
+Água sem gás;4
+Tubaína;9
+Kombucha;4
+Achocolatado;2
+89;5
+Guaraná Sibéria;7
+Chocolate;2
+Paçoca;6
+Bolo de coco;5
+Macarrão;8
+90;2
+Azeitonas;4
+Batata;4
+91;10
+Pastel;6
+Cenoura;5
+Pão de alho;2
+Lápis;3
+Lapiseira;6
+Borracha;5
+Clipes;5
+Grampeador;6
+Corretivo;3
+Marca-texto;8
+92;9
+Desentupidor de fogão;4
+Borracha para panela de pressão;7
+Faca;1
+Colher;3
+Copo grande;3
+Copo lagoinha;4
+Queijeira;7
+Cola Cola;9
+Água com gás;2
+93;5
+Tubaína;5
+Água de coco;6
+Kombucha;3
+Achocolatado;9
+Guaraná Sibéria;5
+94;2
+Cafezinho;9
+Paçoca;2
+95;4
+Pão de sal;2
+Macarrão;1
+Azeitonas;7
+Batata;2
+96;4
+Pastel;2
+Cenoura;7
+Lápis;6
+Caneta;2
+97;10
+Lapiseira;3
+Clipes;8
+Papel A4;4
+Corretivo;2
+Marca-texto;8
+Desentupidor de fogão;2
+Borracha para panela de pressão;8
+Garfo;4
+Caneca;8
+Copo lagoinha;1
+98;3
+Saleiro;4
+Cola Cola;3
+Água sem gás;1
+99;10
+Água com gás;1
+Água de coco;8
+Achocolatado;1
+Chá mate;8
+Cafezinho;4
+Chocolate;4
+Paçoca;1
+Bolo de coco;3
+Azeitonas;2
+Batata;3
+100;4
+Pastel;9
+Pão de alho;5
+Lápis;6
+Lapiseira;8
+101;6
+Clipes;8
+Grampeador;2
+Corretivo;1
+Peso de papel;8
+Desentupidor de fogão;2
+Faca;1
+102;7
+Garfo;5
+Colher;9
+Caneca;2
+Copo grande;5
+Copo lagoinha;9
+Saleiro;5
+Água sem gás;1
+103;11
+Água com gás;7
+Tubaína;6
+Kombucha;3
+Chá mate;4
+Guaraná Sibéria;8
+Cafezinho;6
+Chocolate;7
+Pão de sal;8
+Macarrão;3
+Batata;8
+Pastel;2
+104;3
+Cenoura;4
+Lápis;1
+Caneta;9
+105;6
+Borracha;2
+Grampeador;1
+Papel A4;6
+Marca-texto;1
+Peso de papel;4
+Desentupidor de fogão;1
+106;4
+Borracha para panela de pressão;1
+Garfo;9
+Caneca;3
+Copo grande;3
+107;4
+Copo lagoinha;2
+Saleiro;2
+Cola Cola;9
+Água sem gás;3
+108;3
+Água com gás;5
+Água de coco;3
+Kombucha;6
+109;2
+Achocolatado;2
+Chá mate;5
+110;3
+Guaraná Sibéria;5
+Cafezinho;8
+Chocolate;4
+111;10
+Pão de sal;3
+Bolo de coco;9
+Macarrão;3
+Azeitonas;7
+Batata;3
+Pastel;9
+Pão de alho;7
+Lápis;9
+Lapiseira;7
+Clipes;1
+112;11
+Papel A4;5
+Corretivo;9
+Peso de papel;1
+Borracha para panela de pressão;7
+Faca;3
+Garfo;5
+Colher;6
+Copo grande;3
+Queijeira;3
+Cola Cola;9
+Água com gás;7
+113;11
+Tubaína;2
+Kombucha;4
+Achocolatado;6
+Guaraná Sibéria;2
+Cafezinho;3
+Paçoca;9
+Bolo de coco;9
+Azeitonas;5
+Batata;3
+Pastel;2
+Cenoura;8
+114;4
+Lápis;2
+Caneta;6
+Lapiseira;5
+Clipes;1
+115;1
+Grampeador;5
+116;2
+Corretivo;2
+Peso de papel;4
+117;1
+Borracha para panela de pressão;2
+118;1
+Faca;3
+119;8
+Garfo;4
+Caneca;7
+Copo lagoinha;7
+Saleiro;5
+Água sem gás;2
+Tubaína;9
+Água de coco;1
+Kombucha;6
+120;8
+Achocolatado;2
+Guaraná Sibéria;8
+Cafezinho;8
+Chocolate;4
+Pão de sal;8
+Macarrão;6
+Batata;8
+Pastel;4
+121;5
+Cenoura;3
+Pão de alho;7
+Lápis;4
+Caneta;6
+Borracha;9
+122;11
+Clipes;4
+Grampeador;1
+Papel A4;4
+Marca-texto;1
+Peso de papel;8
+Borracha para panela de pressão;5
+Garfo;4
+Colher;8
+Copo grande;9
+Queijeira;4
+Cola Cola;5
+123;10
+Água com gás;8
+Tubaína;9
+Água de coco;8
+Achocolatado;2
+Guaraná Sibéria;8
+Cafezinho;1
+Chocolate;5
+Pão de sal;5
+Bolo de coco;2
+Macarrão;9
+124;7
+Batata;7
+Cenoura;4
+Lápis;6
+Lapiseira;7
+Clipes;5
+Grampeador;7
+Corretivo;6
+125;4
+Peso de papel;5
+Desentupidor de fogão;3
+Faca;6
+Colher;7
+126;6
+Caneca;1
+Copo grande;8
+Copo lagoinha;5
+Queijeira;7
+Cola Cola;3
+Água sem gás;1
+127;5
+Tubaína;3
+Água de coco;1
+Kombucha;1
+Achocolatado;8
+Chá mate;6
+128;11
+Cafezinho;7
+Chocolate;8
+Pão de sal;2
+Macarrão;6
+Azeitonas;3
+Batata;9
+Pastel;7
+Cenoura;2
+Pão de alho;5
+Lápis;3
+Caneta;2
+129;5
+Borracha;1
+Clipes;8
+Grampeador;9
+Papel A4;6
+Marca-texto;5
+130;4
+Peso de papel;6
+Desentupidor de fogão;4
+Faca;5
+Garfo;7
+131;1
+Colher;5
+132;4
+Copo grande;4
+Copo lagoinha;8
+Queijeira;4
+Saleiro;3
+133;8
+Cola Cola;3
+Água sem gás;8
+Tubaína;4
+Kombucha;6
+Chá mate;7
+Guaraná Sibéria;5
+Cafezinho;4
+Paçoca;7
+134;11
+Bolo de coco;6
+Macarrão;6
+Azeitonas;4
+Batata;7
+Pastel;4
+Cenoura;1
+Pão de alho;3
+Caneta;2
+Borracha;8
+Clipes;3
+Papel A4;2
+135;2
+Marca-texto;1
+Peso de papel;4
+136;3
+Borracha para panela de pressão;8
+Garfo;4
+Colher;1
+137;9
+Copo grande;3
+Copo lagoinha;3
+Saleiro;8
+Cola Cola;4
+Água com gás;6
+Água de coco;3
+Kombucha;7
+Achocolatado;4
+Guaraná Sibéria;3
+138;5
+Cafezinho;4
+Paçoca;4
+Bolo de coco;7
+Macarrão;1
+Batata;5
+139;6
+Cenoura;8
+Pão de alho;5
+Caneta;9
+Borracha;5
+Grampeador;4
+Papel A4;7
+140;3
+Marca-texto;5
+Peso de papel;8
+Borracha para panela de pressão;6
+141;6
+Faca;1
+Colher;6
+Caneca;2
+Copo lagoinha;6
+Saleiro;8
+Água sem gás;3
+142;11
+Água com gás;8
+Água de coco;9
+Achocolatado;8
+Chá mate;7
+Guaraná Sibéria;7
+Chocolate;1
+Pão de sal;3
+Bolo de coco;1
+Azeitonas;2
+Pastel;2
+Cenoura;2
+143;8
+Pão de alho;7
+Lápis;7
+Caneta;9
+Borracha;8
+Grampeador;1
+Corretivo;8
+Marca-texto;7
+Peso de papel;9
+144;9
+Desentupidor de fogão;7
+Borracha para panela de pressão;4
+Garfo;6
+Caneca;8
+Copo grande;5
+Copo lagoinha;6
+Queijeira;2
+Cola Cola;2
+Água sem gás;6
+145;4
+Tubaína;1
+Água de coco;7
+Kombucha;9
+Achocolatado;9
+146;10
+Chá mate;4
+Guaraná Sibéria;4
+Cafezinho;7
+Paçoca;3
+Pão de sal;3
+Bolo de coco;1
+Azeitonas;9
+Pastel;4
+Pão de alho;2
+Lápis;9
+147;10
+Lapiseira;8
+Borracha;8
+Clipes;7
+Papel A4;9
+Marca-texto;5
+Peso de papel;7
+Borracha para panela de pressão;4
+Faca;3
+Colher;4
+Copo grande;2
+148;8
+Copo lagoinha;9
+Queijeira;3
+Saleiro;1
+Água sem gás;3
+Tubaína;7
+Água de coco;9
+Kombucha;9
+Achocolatado;1
+149;5
+Guaraná Sibéria;9
+Chocolate;4
+Paçoca;8
+Bolo de coco;3
+Azeitonas;6
+150;8
+Batata;9
+Cenoura;7
+Lápis;2
+Caneta;9
+Borracha;6
+Clipes;7
+Grampeador;6
+Papel A4;7
+151;4
+Marca-texto;7
+Peso de papel;6
+Desentupidor de fogão;4
+Borracha para panela de pressão;6
+152;3
+Faca;1
+Garfo;4
+Caneca;4
+153;6
+Copo lagoinha;2
+Saleiro;9
+Cola Cola;3
+Água com gás;5
+Água de coco;2
+Achocolatado;8
+154;4
+Guaraná Sibéria;7
+Chocolate;1
+Pão de sal;6
+Macarrão;2
+155;2
+Batata;6
+Pastel;2
+156;6
+Pão de alho;4
+Caneta;5
+Borracha;8
+Clipes;5
+Grampeador;8
+Corretivo;9
+157;6
+Peso de papel;9
+Desentupidor de fogão;1
+Faca;6
+Garfo;7
+Caneca;3
+Copo grande;8
+158;4
+Copo lagoinha;3
+Saleiro;3
+Água sem gás;5
+Água com gás;8
+159;11
+Tubaína;8
+Kombucha;2
+Achocolatado;2
+Chá mate;3
+Cafezinho;2
+Paçoca;2
+Pão de sal;3
+Bolo de coco;8
+Macarrão;7
+Batata;7
+Pastel;1
+160;7
+Pão de alho;4
+Lápis;8
+Lapiseira;2
+Clipes;3
+Papel A4;6
+Marca-texto;7
+Peso de papel;5
+161;5
+Borracha para panela de pressão;2
+Garfo;3
+Colher;1
+Caneca;2
+Copo grande;1
+162;9
+Copo lagoinha;8
+Saleiro;4
+Cola Cola;7
+Água sem gás;2
+Tubaína;7
+Kombucha;3
+Achocolatado;1
+Chá mate;8
+Cafezinho;5
+163;2
+Chocolate;8
+Paçoca;7
+164;1
+Bolo de coco;1
+165;11
+Azeitonas;6
+Batata;2
+Pastel;8
+Pão de alho;7
+Caneta;5
+Lapiseira;6
+Borracha;7
+Clipes;6
+Papel A4;1
+Marca-texto;3
+Peso de papel;2
+166;3
+Desentupidor de fogão;7
+Borracha para panela de pressão;6
+Garfo;1
+167;2
+Caneca;7
+Copo grande;7
+168;3
+Queijeira;5
+Cola Cola;5
+Água sem gás;5
+169;4
+Água com gás;3
+Tubaína;9
+Kombucha;8
+Chá mate;8
+170;1
+Cafezinho;7
+171;8
+Paçoca;7
+Pão de sal;9
+Macarrão;9
+Azeitonas;1
+Pastel;8
+Pão de alho;6
+Caneta;6
+Lapiseira;4
+172;2
+Borracha;6
+Clipes;8
+173;10
+Papel A4;9
+Corretivo;8
+Marca-texto;7
+Peso de papel;3
+Desentupidor de fogão;8
+Faca;4
+Colher;6
+Caneca;5
+Copo grande;6
+Copo lagoinha;4
+174;7
+Queijeira;6
+Cola Cola;4
+Água sem gás;4
+Água com gás;6
+Água de coco;4
+Kombucha;8
+Chá mate;7
+175;5
+Cafezinho;7
+Chocolate;5
+Pão de sal;5
+Macarrão;8
+Batata;2
+176;8
+Cenoura;2
+Lápis;1
+Caneta;3
+Lapiseira;3
+Clipes;3
+Grampeador;4
+Papel A4;4
+Marca-texto;6
+177;2
+Peso de papel;7
+Borracha para panela de pressão;1
+178;10
+Garfo;5
+Colher;1
+Copo grande;4
+Copo lagoinha;5
+Saleiro;2
+Cola Cola;5
+Água com gás;3
+Tubaína;8
+Água de coco;1
+Kombucha;6
+179;1
+Achocolatado;8
+180;4
+Chá mate;1
+Guaraná Sibéria;8
+Chocolate;5
+Pão de sal;7
+181;8
+Macarrão;3
+Azeitonas;8
+Pastel;5
+Cenoura;2
+Pão de alho;5
+Caneta;3
+Borracha;8
+Clipes;6
+182;4
+Papel A4;6
+Corretivo;4
+Peso de papel;7
+Borracha para panela de pressão;9
+183;10
+Garfo;1
+Colher;8
+Caneca;2
+Copo grande;8
+Queijeira;1
+Cola Cola;1
+Água sem gás;5
+Água com gás;5
+Água de coco;6
+Achocolatado;1
+184;6
+Chá mate;1
+Guaraná Sibéria;4
+Cafezinho;4
+Paçoca;3
+Pão de sal;6
+Bolo de coco;8
+185;2
+Azeitonas;9
+Pastel;3
+186;3
+Pão de alho;7
+Caneta;2
+Lapiseira;6
+187;3
+Clipes;2
+Papel A4;9
+Marca-texto;1
+188;11
+Desentupidor de fogão;3
+Borracha para panela de pressão;9
+Garfo;4
+Caneca;8
+Copo lagoinha;6
+Saleiro;4
+Água sem gás;2
+Água com gás;5
+Tubaína;6
+Kombucha;4
+Achocolatado;4
+189;7
+Chá mate;8
+Cafezinho;2
+Paçoca;2
+Bolo de coco;3
+Macarrão;5
+Azeitonas;1
+Pastel;6
+190;1
+Pão de alho;8
+191;6
+Caneta;8
+Lapiseira;6
+Clipes;1
+Grampeador;2
+Corretivo;3
+Marca-texto;4
+192;8
+Desentupidor de fogão;5
+Faca;3
+Garfo;3
+Colher;8
+Copo grande;1
+Copo lagoinha;5
+Saleiro;1
+Cola Cola;6
+193;11
+Água sem gás;7
+Tubaína;8
+Água de coco;5
+Kombucha;5
+Chá mate;6
+Guaraná Sibéria;8
+Chocolate;6
+Pão de sal;7
+Macarrão;5
+Azeitonas;1
+Batata;8
+194;7
+Cenoura;6
+Pão de alho;8
+Lápis;2
+Lapiseira;9
+Clipes;6
+Papel A4;8
+Marca-texto;7
+195;10
+Desentupidor de fogão;1
+Faca;7
+Garfo;7
+Colher;1
+Caneca;5
+Copo grande;8
+Copo lagoinha;6
+Saleiro;5
+Água sem gás;6
+Água com gás;1
+196;3
+Água de coco;7
+Kombucha;3
+Achocolatado;6
+197;1
+Chá mate;8
+198;8
+Guaraná Sibéria;9
+Chocolate;6
+Paçoca;5
+Bolo de coco;7
+Azeitonas;3
+Pastel;2
+Cenoura;8
+Pão de alho;8
+199;5
+Lápis;1
+Caneta;3
+Lapiseira;6
+Clipes;2
+Grampeador;5
+200;6
+Papel A4;2
+Corretivo;8
+Marca-texto;7
+Peso de papel;8
+Desentupidor de fogão;9
+Borracha para panela de pressão;1
+201;1
+Garfo;4
+202;9
+Caneca;6
+Copo grande;3
+Queijeira;2
+Saleiro;8
+Cola Cola;8
+Água sem gás;8
+Água com gás;4
+Água de coco;1
+Kombucha;2
+203;6
+Chá mate;2
+Cafezinho;8
+Paçoca;8
+Bolo de coco;7
+Macarrão;1
+Azeitonas;1
+204;5
+Batata;8
+Pastel;5
+Pão de alho;2
+Caneta;1
+Lapiseira;4
+205;8
+Borracha;4
+Clipes;6
+Papel A4;5
+Corretivo;1
+Peso de papel;4
+Borracha para panela de pressão;7
+Garfo;7
+Caneca;5
+206;5
+Copo grande;7
+Queijeira;1
+Cola Cola;1
+Água com gás;4
+Tubaína;1
+207;2
+Kombucha;6
+Achocolatado;6
+208;8
+Chá mate;4
+Guaraná Sibéria;6
+Chocolate;9
+Pão de sal;8
+Bolo de coco;1
+Macarrão;3
+Azeitonas;3
+Pastel;2
+209;9
+Cenoura;6
+Pão de alho;6
+Caneta;6
+Lapiseira;3
+Borracha;5
+Clipes;1
+Grampeador;4
+Corretivo;3
+Peso de papel;6
+210;4
+Borracha para panela de pressão;8
+Faca;4
+Colher;8
+Caneca;7
+211;1
+Copo lagoinha;3
+212;11
+Queijeira;1
+Saleiro;5
+Água sem gás;3
+Água com gás;6
+Água de coco;8
+Kombucha;8
+Chá mate;5
+Cafezinho;8
+Paçoca;1
+Pão de sal;3
+Macarrão;4
+213;6
+Batata;7
+Pastel;4
+Pão de alho;5
+Caneta;3
+Borracha;8
+Clipes;2
+214;1
+Grampeador;8
+215;1
+Corretivo;8
+216;11
+Peso de papel;7
+Desentupidor de fogão;6
+Faca;4
+Garfo;3
+Caneca;9
+Copo lagoinha;1
+Queijeira;9
+Cola Cola;2
+Água com gás;6
+Água de coco;3
+Kombucha;8
+217;7
+Chá mate;9
+Guaraná Sibéria;3
+Chocolate;7
+Pão de sal;1
+Bolo de coco;4
+Azeitonas;8
+Pastel;5
+218;1
+Cenoura;1
+219;8
+Pão de alho;9
+Lápis;3
+Lapiseira;2
+Borracha;5
+Grampeador;2
+Papel A4;1
+Marca-texto;8
+Desentupidor de fogão;2
+220;11
+Faca;8
+Garfo;2
+Caneca;1
+Copo lagoinha;4
+Saleiro;4
+Cola Cola;8
+Água com gás;7
+Tubaína;8
+Kombucha;9
+Chá mate;2
+Guaraná Sibéria;2
+221;10
+Cafezinho;4
+Paçoca;7
+Bolo de coco;1
+Azeitonas;1
+Batata;5
+Cenoura;4
+Pão de alho;1
+Caneta;7
+Borracha;6
+Grampeador;2
+222;9
+Papel A4;7
+Corretivo;4
+Marca-texto;2
+Desentupidor de fogão;9
+Faca;1
+Colher;5
+Copo grande;9
+Queijeira;8
+Saleiro;2
+223;4
+Água sem gás;4
+Tubaína;3
+Água de coco;3
+Achocolatado;8
+224;1
+Chá mate;9
+225;6
+Guaraná Sibéria;9
+Cafezinho;8
+Paçoca;5
+Pão de sal;5
+Macarrão;8
+Azeitonas;5
+226;6
+Pastel;8
+Pão de alho;1
+Caneta;8
+Borracha;4
+Grampeador;3
+Papel A4;5
+227;5
+Corretivo;1
+Marca-texto;4
+Desentupidor de fogão;6
+Faca;5
+Garfo;5
+228;10
+Colher;2
+Caneca;9
+Copo lagoinha;5
+Queijeira;3
+Saleiro;8
+Cola Cola;4
+Água sem gás;7
+Água com gás;4
+Tubaína;2
+Kombucha;7
+229;9
+Achocolatado;3
+Chá mate;3
+Guaraná Sibéria;4
+Chocolate;5
+Pão de sal;9
+Bolo de coco;4
+Azeitonas;8
+Pastel;5
+Pão de alho;7
+230;1
+Lápis;1
+231;3
+Lapiseira;6
+Clipes;9
+Papel A4;6
+232;4
+Marca-texto;4
+Desentupidor de fogão;8
+Borracha para panela de pressão;8
+Garfo;9
+233;8
+Colher;1
+Caneca;8
+Copo lagoinha;8
+Saleiro;1
+Água sem gás;8
+Tubaína;8
+Kombucha;5
+Chá mate;6
+234;8
+Guaraná Sibéria;6
+Chocolate;6
+Paçoca;7
+Pão de sal;2
+Bolo de coco;6
+Azeitonas;5
+Pastel;1
+Pão de alho;6
+235;1
+Lápis;1
+236;11
+Caneta;6
+Borracha;7
+Grampeador;4
+Corretivo;8
+Marca-texto;1
+Desentupidor de fogão;8
+Borracha para panela de pressão;4
+Garfo;3
+Colher;2
+Caneca;3
+Copo lagoinha;7
+237;6
+Queijeira;9
+Cola Cola;2
+Água com gás;1
+Tubaína;5
+Água de coco;7
+Achocolatado;6
+238;5
+Guaraná Sibéria;1
+Chocolate;8
+Pão de sal;5
+Macarrão;1
+Batata;1
+239;4
+Pastel;3
+Cenoura;5
+Lápis;1
+Lapiseira;1
+240;5
+Borracha;5
+Grampeador;1
+Papel A4;1
+Marca-texto;2
+Desentupidor de fogão;5
+241;2
+Faca;8
+Garfo;5
+242;2
+Colher;4
+Caneca;5
+243;11
+Copo grande;5
+Queijeira;3
+Saleiro;6
+Água sem gás;8
+Tubaína;3
+Água de coco;6
+Kombucha;2
+Achocolatado;3
+Guaraná Sibéria;6
+Chocolate;7
+Pão de sal;5
+244;3
+Macarrão;7
+Azeitonas;9
+Pastel;4
+245;9
+Pão de alho;3
+Caneta;5
+Borracha;9
+Grampeador;8
+Papel A4;4
+Marca-texto;4
+Peso de papel;3
+Desentupidor de fogão;9
+Faca;2
+246;2
+Colher;3
+Copo grande;5
+247;8
+Copo lagoinha;8
+Queijeira;9
+Cola Cola;8
+Água com gás;9
+Tubaína;8
+Kombucha;7
+Achocolatado;7
+Chá mate;4
+248;5
+Guaraná Sibéria;5
+Cafezinho;8
+Chocolate;5
+Pão de sal;8
+Macarrão;4
+249;9
+Batata;5
+Cenoura;9
+Lápis;8
+Caneta;1
+Borracha;8
+Clipes;3
+Papel A4;1
+Marca-texto;3
+Desentupidor de fogão;4
+250;11
+Borracha para panela de pressão;7
+Garfo;5
+Colher;2
+Caneca;9
+Copo grande;3
+Copo lagoinha;2
+Saleiro;4
+Água sem gás;2
+Tubaína;3
+Kombucha;9
+Achocolatado;6
+251;4
+Guaraná Sibéria;5
+Chocolate;3
+Pão de sal;7
+Bolo de coco;3
+252;4
+Macarrão;8
+Azeitonas;9
+Pastel;9
+Cenoura;8
+253;9
+Lápis;7
+Lapiseira;2
+Clipes;5
+Papel A4;8
+Marca-texto;9
+Desentupidor de fogão;9
+Borracha para panela de pressão;8
+Faca;4
+Colher;9
+254;4
+Copo grande;3
+Copo lagoinha;1
+Queijeira;1
+Cola Cola;9
+255;2
+Água com gás;2
+Tubaína;8
+256;9
+Água de coco;2
+Achocolatado;6
+Guaraná Sibéria;8
+Cafezinho;4
+Paçoca;9
+Pão de sal;3
+Bolo de coco;9
+Macarrão;9
+Batata;1
+257;1
+Pastel;9
+258;6
+Pão de alho;7
+Caneta;1
+Borracha;6
+Grampeador;9
+Corretivo;9
+Marca-texto;2
+259;4
+Desentupidor de fogão;5
+Faca;3
+Garfo;9
+Colher;5
+260;3
+Copo grande;7
+Queijeira;7
+Cola Cola;2
+261;4
+Água sem gás;9
+Tubaína;8
+Kombucha;3
+Achocolatado;9
+262;6
+Guaraná Sibéria;7
+Chocolate;8
+Paçoca;3
+Pão de sal;2
+Macarrão;4
+Azeitonas;8
+263;9
+Pastel;2
+Cenoura;9
+Lápis;9
+Lapiseira;4
+Borracha;6
+Grampeador;6
+Papel A4;9
+Corretivo;4
+Peso de papel;3
+264;4
+Borracha para panela de pressão;7
+Faca;3
+Colher;7
+Copo grande;5
+265;7
+Queijeira;1
+Cola Cola;7
+Água com gás;4
+Tubaína;5
+Água de coco;7
+Achocolatado;3
+Guaraná Sibéria;2
+266;7
+Cafezinho;2
+Chocolate;8
+Paçoca;6
+Bolo de coco;2
+Macarrão;1
+Azeitonas;1
+Batata;9
+267;8
+Pastel;7
+Pão de alho;5
+Caneta;2
+Lapiseira;8
+Borracha;2
+Grampeador;9
+Corretivo;8
+Peso de papel;1
+268;9
+Borracha para panela de pressão;8
+Faca;6
+Colher;2
+Caneca;8
+Copo lagoinha;9
+Queijeira;7
+Saleiro;3
+Água sem gás;6
+Tubaína;5
+269;1
+Kombucha;5
+270;5
+Achocolatado;1
+Chá mate;1
+Cafezinho;5
+Paçoca;7
+Pão de sal;5
+271;11
+Bolo de coco;5
+Azeitonas;7
+Batata;7
+Cenoura;4
+Lápis;9
+Caneta;5
+Lapiseira;6
+Clipes;1
+Grampeador;3
+Papel A4;6
+Corretivo;3
+272;2
+Marca-texto;1
+Peso de papel;4
+273;6
+Borracha para panela de pressão;2
+Faca;6
+Colher;7
+Caneca;8
+Copo grande;8
+Queijeira;8
+274;6
+Saleiro;9
+Água sem gás;2
+Tubaína;3
+Água de coco;8
+Kombucha;3
+Achocolatado;1
+275;11
+Guaraná Sibéria;9
+Cafezinho;3
+Paçoca;7
+Pão de sal;1
+Macarrão;4
+Batata;6
+Cenoura;4
+Pão de alho;1
+Lápis;5
+Lapiseira;5
+Borracha;1
+276;4
+Grampeador;3
+Papel A4;1
+Corretivo;6
+Marca-texto;8
+277;7
+Desentupidor de fogão;1
+Borracha para panela de pressão;3
+Faca;7
+Garfo;9
+Caneca;4
+Copo grande;6
+Queijeira;5
+278;1
+Cola Cola;1
+279;9
+Água sem gás;8
+Tubaína;6
+Kombucha;5
+Chá mate;6
+Guaraná Sibéria;3
+Chocolate;3
+Paçoca;8
+Pão de sal;2
+Bolo de coco;5
+280;3
+Macarrão;6
+Azeitonas;4
+Pastel;9
+281;8
+Pão de alho;7
+Caneta;7
+Lapiseira;2
+Clipes;8
+Papel A4;1
+Marca-texto;1
+Peso de papel;6
+Borracha para panela de pressão;8
+282;9
+Garfo;2
+Colher;9
+Copo grande;2
+Copo lagoinha;5
+Saleiro;7
+Água sem gás;3
+Água com gás;5
+Tubaína;6
+Água de coco;8
+283;11
+Achocolatado;3
+Guaraná Sibéria;5
+Cafezinho;6
+Chocolate;4
+Paçoca;9
+Pão de sal;6
+Bolo de coco;7
+Azeitonas;5
+Pastel;7
+Pão de alho;9
+Caneta;5
+284;3
+Borracha;5
+Clipes;6
+Papel A4;6
+285;9
+Corretivo;1
+Peso de papel;7
+Desentupidor de fogão;5
+Borracha para panela de pressão;7
+Garfo;3
+Caneca;7
+Copo grande;5
+Copo lagoinha;2
+Queijeira;5
+286;6
+Cola Cola;5
+Água com gás;3
+Água de coco;4
+Kombucha;1
+Chá mate;1
+Guaraná Sibéria;1
+287;6
+Chocolate;6
+Pão de sal;2
+Macarrão;7
+Batata;1
+Pastel;8
+Pão de alho;5
+288;5
+Caneta;4
+Borracha;5
+Clipes;6
+Grampeador;1
+Corretivo;3
+289;6
+Peso de papel;8
+Desentupidor de fogão;9
+Borracha para panela de pressão;1
+Garfo;7
+Colher;1
+Copo grande;4
+290;11
+Copo lagoinha;4
+Saleiro;8
+Cola Cola;6
+Água com gás;1
+Água de coco;5
+Kombucha;7
+Achocolatado;5
+Guaraná Sibéria;6
+Chocolate;4
+Paçoca;4
+Pão de sal;4
+291;10
+Bolo de coco;7
+Azeitonas;3
+Batata;2
+Pastel;3
+Pão de alho;1
+Caneta;3
+Lapiseira;8
+Borracha;6
+Clipes;6
+Grampeador;9
+292;5
+Corretivo;2
+Peso de papel;6
+Desentupidor de fogão;1
+Borracha para panela de pressão;7
+Garfo;1
+293;10
+Caneca;4
+Copo grande;2
+Queijeira;4
+Saleiro;9
+Cola Cola;2
+Água sem gás;7
+Tubaína;2
+Kombucha;7
+Chá mate;7
+Guaraná Sibéria;7
+294;8
+Cafezinho;5
+Chocolate;5
+Pão de sal;6
+Bolo de coco;1
+Macarrão;6
+Azeitonas;1
+Pastel;5
+Pão de alho;4
+295;2
+Caneta;6
+Lapiseira;5
+296;6
+Borracha;5
+Clipes;3
+Grampeador;5
+Papel A4;5
+Marca-texto;5
+Peso de papel;2
+297;5
+Borracha para panela de pressão;1
+Garfo;1
+Caneca;4
+Copo lagoinha;4
+Saleiro;3
+298;8
+Água sem gás;7
+Tubaína;3
+Kombucha;9
+Chá mate;5
+Guaraná Sibéria;8
+Cafezinho;9
+Chocolate;4
+Paçoca;6
+299;9
+Bolo de coco;6
+Azeitonas;7
+Pastel;1
+Pão de alho;4
+Lápis;8
+Lapiseira;8
+Clipes;2
+Papel A4;3
+Marca-texto;5
+300;9
+Peso de papel;9
+Borracha para panela de pressão;1
+Faca;8
+Colher;6
+Copo grande;2
+Queijeira;6
+Saleiro;7
+Cola Cola;8
+Água com gás;5
+301;1
+Tubaína;6
+302;4
+Kombucha;2
+Achocolatado;6
+Guaraná Sibéria;6
+Chocolate;6
+303;8
+Paçoca;9
+Pão de sal;2
+Macarrão;6
+Batata;7
+Cenoura;7
+Pão de alho;9
+Lápis;9
+Caneta;5
+304;2
+Borracha;3
+Grampeador;7
+305;8
+Papel A4;2
+Corretivo;1
+Peso de papel;1
+Desentupidor de fogão;2
+Borracha para panela de pressão;8
+Faca;5
+Garfo;7
+Colher;6
+306;4
+Caneca;4
+Copo lagoinha;2
+Queijeira;2
+Saleiro;8
+307;2
+Água sem gás;1
+Água com gás;1
+308;5
+Água de coco;9
+Achocolatado;5
+Chá mate;9
+Cafezinho;8
+Paçoca;3
+309;8
+Pão de sal;6
+Macarrão;6
+Batata;6
+Pastel;6
+Cenoura;2
+Pão de alho;9
+Caneta;1
+Borracha;8
+310;2
+Grampeador;2
+Papel A4;7
+311;3
+Corretivo;3
+Peso de papel;5
+Desentupidor de fogão;7
+312;7
+Faca;3
+Colher;6
+Caneca;1
+Copo lagoinha;5
+Queijeira;3
+Saleiro;6
+Água sem gás;9
+313;3
+Tubaína;9
+Água de coco;5
+Kombucha;2
+314;7
+Achocolatado;4
+Guaraná Sibéria;9
+Cafezinho;2
+Paçoca;9
+Pão de sal;4
+Macarrão;9
+Batata;8
+315;5
+Pastel;1
+Pão de alho;5
+Lápis;9
+Caneta;9
+Borracha;8
+316;4
+Clipes;6
+Papel A4;3
+Marca-texto;4
+Desentupidor de fogão;1
+317;1
+Faca;7
+318;6
+Colher;4
+Copo grande;3
+Queijeira;8
+Cola Cola;9
+Água sem gás;5
+Água com gás;6
+319;1
+Água de coco;8
+320;9
+Achocolatado;9
+Chá mate;2
+Guaraná Sibéria;7
+Chocolate;9
+Paçoca;1
+Bolo de coco;4
+Macarrão;5
+Batata;9
+Cenoura;6
+321;1
+Pão de alho;4
+322;8
+Lápis;2
+Lapiseira;9
+Clipes;8
+Papel A4;9
+Corretivo;1
+Marca-texto;7
+Peso de papel;2
+Desentupidor de fogão;6
+323;5
+Borracha para panela de pressão;5
+Garfo;9
+Caneca;1
+Copo grande;5
+Queijeira;7
+324;3
+Saleiro;4
+Água sem gás;8
+Água com gás;9
+325;5
+Tubaína;3
+Água de coco;7
+Kombucha;4
+Achocolatado;8
+Guaraná Sibéria;9
+326;8
+Cafezinho;5
+Paçoca;1
+Pão de sal;8
+Macarrão;4
+Batata;7
+Pastel;4
+Cenoura;2
+Pão de alho;4
+327;11
+Caneta;6
+Borracha;3
+Clipes;7
+Papel A4;3
+Corretivo;4
+Marca-texto;6
+Desentupidor de fogão;9
+Borracha para panela de pressão;6
+Garfo;6
+Colher;4
+Caneca;2
+328;8
+Copo grande;9
+Copo lagoinha;7
+Queijeira;9
+Cola Cola;6
+Água sem gás;1
+Água com gás;9
+Tubaína;2
+Água de coco;7
+329;9
+Achocolatado;7
+Chá mate;4
+Guaraná Sibéria;8
+Cafezinho;7
+Paçoca;7
+Bolo de coco;5
+Azeitonas;9
+Pastel;6
+Pão de alho;5
+330;4
+Lápis;1
+Lapiseira;4
+Borracha;8
+Clipes;5
+331;2
+Grampeador;3
+Papel A4;4
+332;11
+Corretivo;4
+Marca-texto;2
+Peso de papel;9
+Desentupidor de fogão;1
+Faca;4
+Garfo;3
+Colher;2
+Caneca;5
+Copo grande;2
+Queijeira;1
+Saleiro;7
+333;2
+Cola Cola;8
+Água com gás;9
+334;4
+Tubaína;7
+Kombucha;4
+Achocolatado;6
+Chá mate;5
+335;7
+Cafezinho;6
+Paçoca;2
+Pão de sal;2
+Bolo de coco;3
+Azeitonas;7
+Batata;4
+Cenoura;7
+336;1
+Lápis;4
+337;5
+Lapiseira;3
+Borracha;4
+Grampeador;1
+Corretivo;1
+Marca-texto;8
+338;9
+Peso de papel;5
+Borracha para panela de pressão;6
+Garfo;8
+Caneca;1
+Copo lagoinha;3
+Saleiro;8
+Água sem gás;8
+Tubaína;8
+Kombucha;4
+339;11
+Achocolatado;6
+Guaraná Sibéria;2
+Chocolate;3
+Paçoca;2
+Bolo de coco;6
+Macarrão;2
+Batata;5
+Cenoura;7
+Pão de alho;4
+Caneta;6
+Borracha;4
+340;8
+Grampeador;2
+Papel A4;5
+Corretivo;5
+Peso de papel;2
+Borracha para panela de pressão;6
+Faca;4
+Garfo;5
+Colher;8
+341;4
+Caneca;6
+Copo lagoinha;5
+Queijeira;2
+Cola Cola;3
+342;5
+Água sem gás;6
+Água com gás;1
+Água de coco;1
+Kombucha;1
+Achocolatado;9
+343;8
+Guaraná Sibéria;4
+Chocolate;8
+Paçoca;5
+Bolo de coco;7
+Macarrão;5
+Azeitonas;7
+Pastel;5
+Cenoura;4
+344;7
+Pão de alho;1
+Caneta;5
+Lapiseira;7
+Borracha;3
+Grampeador;7
+Corretivo;2
+Marca-texto;1
+345;3
+Peso de papel;2
+Borracha para panela de pressão;2
+Garfo;9
+346;2
+Caneca;6
+Copo lagoinha;1
+347;11
+Saleiro;8
+Água sem gás;5
+Tubaína;7
+Água de coco;8
+Kombucha;1
+Achocolatado;5
+Guaraná Sibéria;2
+Chocolate;5
+Pão de sal;7
+Macarrão;8
+Azeitonas;1
+348;4
+Batata;1
+Pastel;4
+Pão de alho;9
+Lápis;3
+349;7
+Caneta;7
+Borracha;5
+Grampeador;2
+Papel A4;5
+Marca-texto;2
+Peso de papel;4
+Desentupidor de fogão;1
+350;5
+Faca;5
+Colher;1
+Copo grande;4
+Copo lagoinha;6
+Saleiro;5
+351;6
+Água sem gás;6
+Água com gás;8
+Água de coco;9
+Achocolatado;6
+Chá mate;9
+Guaraná Sibéria;1
+352;6
+Chocolate;6
+Paçoca;1
+Pão de sal;9
+Macarrão;3
+Azeitonas;6
+Pastel;2
+353;4
+Cenoura;4
+Pão de alho;9
+Lápis;1
+Lapiseira;5
+354;8
+Borracha;2
+Grampeador;3
+Papel A4;6
+Corretivo;6
+Marca-texto;3
+Peso de papel;1
+Borracha para panela de pressão;3
+Faca;2
+355;6
+Colher;5
+Caneca;5
+Copo grande;7
+Queijeira;6
+Cola Cola;4
+Água sem gás;4
+356;10
+Água com gás;1
+Tubaína;8
+Água de coco;8
+Kombucha;8
+Chá mate;4
+Cafezinho;4
+Chocolate;3
+Pão de sal;2
+Macarrão;1
+Batata;8
+357;7
+Pastel;5
+Cenoura;2
+Pão de alho;5
+Lápis;6
+Caneta;2
+Borracha;3
+Grampeador;9
+358;5
+Papel A4;6
+Corretivo;5
+Peso de papel;6
+Borracha para panela de pressão;1
+Faca;2
+359;11
+Garfo;9
+Colher;3
+Caneca;6
+Copo grande;3
+Queijeira;6
+Cola Cola;7
+Água com gás;4
+Água de coco;3
+Achocolatado;3
+Guaraná Sibéria;1
+Chocolate;4
+360;4
+Paçoca;9
+Bolo de coco;3
+Azeitonas;1
+Pastel;4
+361;1
+Cenoura;5
+362;1
+Pão de alho;2
+363;11
+Caneta;3
+Borracha;3
+Grampeador;8
+Papel A4;9
+Corretivo;2
+Marca-texto;4
+Peso de papel;8
+Desentupidor de fogão;1
+Borracha para panela de pressão;1
+Garfo;3
+Colher;4
+364;4
+Copo grande;2
+Copo lagoinha;2
+Saleiro;6
+Cola Cola;3
+365;8
+Água sem gás;6
+Água com gás;7
+Tubaína;3
+Água de coco;5
+Achocolatado;9
+Guaraná Sibéria;2
+Chocolate;7
+Paçoca;5
+366;10
+Bolo de coco;2
+Macarrão;5
+Batata;5
+Pastel;9
+Cenoura;1
+Lápis;6
+Lapiseira;3
+Clipes;8
+Grampeador;3
+Corretivo;5
+367;7
+Peso de papel;9
+Borracha para panela de pressão;2
+Faca;5
+Colher;2
+Copo grande;5
+Copo lagoinha;7
+Saleiro;7
+368;3
+Cola Cola;2
+Água sem gás;1
+Tubaína;7
+369;1
+Água de coco;7
+370;10
+Kombucha;7
+Chá mate;3
+Guaraná Sibéria;4
+Cafezinho;1
+Chocolate;2
+Paçoca;3
+Pão de sal;6
+Bolo de coco;7
+Azeitonas;4
+Pastel;4
+371;11
+Pão de alho;6
+Caneta;6
+Lapiseira;3
+Clipes;5
+Papel A4;7
+Marca-texto;9
+Peso de papel;1
+Borracha para panela de pressão;2
+Garfo;4
+Colher;8
+Copo grande;6
+372;6
+Copo lagoinha;1
+Saleiro;5
+Água sem gás;3
+Tubaína;7
+Kombucha;4
+Chá mate;5
+373;1
+Cafezinho;7
+374;2
+Chocolate;6
+Pão de sal;4
+375;6
+Bolo de coco;3
+Macarrão;5
+Azeitonas;5
+Batata;9
+Pastel;6
+Cenoura;2
+376;2
+Lápis;5
+Caneta;8
+377;10
+Lapiseira;9
+Borracha;1
+Grampeador;4
+Corretivo;7
+Marca-texto;1
+Peso de papel;9
+Desentupidor de fogão;1
+Borracha para panela de pressão;1
+Garfo;7
+Caneca;1
+378;7
+Copo lagoinha;8
+Saleiro;3
+Água sem gás;5
+Água com gás;9
+Tubaína;2
+Kombucha;4
+Chá mate;4
+379;5
+Guaraná Sibéria;4
+Chocolate;7
+Pão de sal;6
+Bolo de coco;9
+Azeitonas;5

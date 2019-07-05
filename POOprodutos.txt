@@ -1,0 +1,40 @@
+Cola Cola;1;0,68;4,00;33;7
+Água sem gás;1;0,18;2,60;51;7
+Água com gás;1;0,18;2,60;37;6
+Tubaína;1;0,52;3,00;41;6
+Água de coco;1;0,53;4,00;54;7
+Kombucha;1;0,41;16,00;32;8
+Achocolatado;1;0,83;2,00;31;8
+Chá mate;1;0,16;5,00;50;7
+Guaraná Sibéria;1;0,20;4,00;39;7
+Cafezinho;1;0,83;1,00;46;9
+Chocolate;2;0,76;3,90;34;5
+Paçoca;2;0,06;1,00;48;5
+Pão de sal;2;0,26;0,60;38;8
+Bolo de coco;2;0,15;5,00;48;7
+Macarrão;2;0,06;4,00;51;8
+Azeitonas;2;0,23;20,00;40;6
+Batata;2;0,08;7,00;32;7
+Pastel;2;0,02;2,50;43;7
+Cenoura;2;0,51;4,00;54;5
+Pão de alho;2;0,01;3,00;49;5
+Lápis;3;0,92;2,00;43;6
+Caneta;3;0,63;2,00;41;5
+Lapiseira;3;0,45;19,00;45;7
+Borracha;3;0,31;0,90;40;8
+Clipes;3;0,03;8,00;58;6
+Grampeador;3;0,72;17,00;33;7
+Papel A4;3;0,34;25,00;34;5
+Corretivo;3;0,23;5,00;45;9
+Marca-texto;3;0,78;2,00;51;6
+Peso de papel;3;0,56;9,00;49;5
+Desentupidor de fogão;4;0,36;3,00;30;6
+Borracha para panela de pressão;4;0,28;4,00;36;7
+Faca;4;0,43;10,00;59;5
+Garfo;4;0,12;10,00;39;8
+Colher;4;0,84;10,00;31;9
+Caneca;4;0,91;15,00;57;9
+Copo grande;4;0,29;4,00;49;8
+Copo lagoinha;4;0,20;2,00;35;5
+Queijeira;4;0,24;49,00;59;8
+Saleiro;4;0,15;28,00;35;6
