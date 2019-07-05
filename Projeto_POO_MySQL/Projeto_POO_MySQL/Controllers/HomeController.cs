@@ -4,17 +4,18 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Projeto_POO_MySQL.Models;
+using Projeto_POO_MySQL.Models.ViewModels;
 
 namespace Projeto_POO_MySQL.Controllers {
     public class HomeController : Controller {
+
         public IActionResult Index() {
             return View();
         }
 
         public IActionResult About() {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewData["Message"] = "Salles Web MVC App from C# Course.";
+            ViewData["Aluno"] = "DIEGO CRISTOPHER MARTINS DE LIMA";
             return View();
         }
 
@@ -30,7 +31,7 @@ namespace Projeto_POO_MySQL.Controllers {
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error() {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new Projeto_POO_MySQL.Models.ViewModels.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
