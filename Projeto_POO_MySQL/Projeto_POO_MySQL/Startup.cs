@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using Projeto_POO_MySQL.Models;
 
 namespace Projeto_POO_MySQL {
     public class Startup {
@@ -28,6 +30,9 @@ namespace Projeto_POO_MySQL {
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+    services.AddDbContext<Projeto_POO_MySQLContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("Projeto_POO_MySQLContext")));
         }
         //pipeline HTTP
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
